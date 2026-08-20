@@ -91,7 +91,7 @@ public/
 tests/                  # 计时和统计回归测试
 ```
 
-## 交付前检查
+## 项目验证
 
 ```bash
 npm run check
