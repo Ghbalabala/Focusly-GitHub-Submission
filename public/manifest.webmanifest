@@ -1,0 +1,20 @@
+{
+  "name": "Focusly · 专注学习打卡",
+  "short_name": "Focusly",
+  "description": "番茄钟、学习任务、每日打卡与专注数据复盘。",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f7f6f1",
+  "theme_color": "#e9573f",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
